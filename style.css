@@ -1,0 +1,11 @@
+.background {
+  background-image: url("./background.png");
+  background-size: cover;
+  opacity: 0.85;
+}
+
+.content {
+  width: 100%;
+  position: relative;
+  min-height: 100vh;
+}
